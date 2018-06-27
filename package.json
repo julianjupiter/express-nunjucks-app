@@ -1,0 +1,27 @@
+{
+  "name": "express-nunjucks-app",
+  "version": "1.0.0",
+  "description": "Express + Nunjucks App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julianjupiter/express-nunjucks-app.git"
+  },
+  "keywords": [
+    "express",
+    "nunjucks"
+  ],
+  "author": "Julian V. Jupiter",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/julianjupiter/express-nunjucks-app/issues"
+  },
+  "homepage": "https://github.com/julianjupiter/express-nunjucks-app#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nunjucks": "^3.1.3"
+  }
+}
